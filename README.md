@@ -8,13 +8,13 @@
 ---
 | [Now](#now) | [Interesting](#interesting) | [Towards AGI](#towards-agi) | [Planning](#planning) | [Reasoning](reasoning) | [Alignment](alignment) | [RL](rl) |
 | :- | :- | :- | :- | :- | :- | :- |
----
+
 [Prompting](#prompting) | [Small Language Models](#slm) | [Training Efficiency](#training-efficiency) | [Fine Tuning/RAG](#fine-tuning-rag) | [Attack Mitigation](#attack-mitigation) | [Datasets](#datasets) | [Benchmarks](#benchmarks) |
 | :- | :- | :- | :- | :- | :- | :- |
----
+
 [Decoding Transformers](#decoding-transformers) | [NN Design & Insights](#nn-design--insights) | [Embedding](#embedding) |  | |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
----
+
 [Detection](#detection) | [Watermarking](#watermarking) | [Origin Attribution](#origin-attribution) | [Bias/Fairness](#bias-fairness) | [Explainability](#explainability) | [Other](#other) |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
