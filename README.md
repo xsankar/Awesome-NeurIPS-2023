@@ -15,15 +15,15 @@
 [Decoding Transformers](#decoding-transformers) | [NN Design & Insights](#nn-design--insights) | [Embedding](#embedding) |  | |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
-### Metrics & Benchmarks by Topic (See [LLM Evaluation Topics for a quick intro](#llm-evaluation-topics))
-
-| [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
-| :- | :- | :- | :- |:- |:- |:- | :- |
+[Detection](#detection) | [Watermarking](#watermarking) | [Origin Attribution](#origin-attribution) | [Bias/Fairness](#bias-fairness) | [Explainability](#explainability) | [Other](#other) |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
-| [World Knowledge](#world-knowledge) | [Commonsense Reasoning](#commonsense-reasoning) | [Language Understanding](#language-understanding) | [Symbolic Problem Solving](#symbolic-problem-solving) | [Reading Comprehension](#reading-comprehension) | [Programming](programming) |
-| :- | :- | :- | :- |:- |:- |
 ***
-### LLM Evaluation Concepts
+### Observations
+<p float="left">
+  <img src="./images/img1.png" width="45%" />
+  <img src="./images/img2.png" width="45%" /> 
+</p>
 ![OpenAI](./images/NPS-v07-p26.png)
 ***
 ![OpenAI](./images/LLMSec_P28.jpeg)
