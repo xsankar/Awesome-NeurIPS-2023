@@ -15,7 +15,7 @@
 [Decoding Transformers](#decoding-transformers) | [NN Design & Insights](#nn-design--insights) | [Embedding](#embedding) |  | |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 
-[Detection](#detection) | [Watermarking](#watermarking) | [Origin Attribution](#origin-attribution) | [Bias/Fairness](#bias-fairness) | [Explainability](#explainability) | [Other](#other) |  |
+[AI Generated Text Detection](#ai-generated-text-detection) | [Watermarking](#watermarking) | [Origin Attribution](#origin-attribution) | [Bias/Fairness](#bias-fairness) | [Explainability](#explainability) | [Other](#other) |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
 ### Observations - [Blog](https://medium.com/@ksankar/neurips-2023-unboxed-whats-in-what-s-out-cutting-edge-generative-ai-research-from-3-784-eec08394eadb)
@@ -65,5 +65,12 @@
 | Year | Title | Notes | 
 | -: | :- | :- |
 | | Survey Papers | |
+***
+## AI Generated Test Detection
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Title | Notes | 
+| -: | :- | :- |
+| RADAR: Robust AI-Text Detection via Adversarial Learning | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71713.png?t=1699290320.7839897) | [Paper](https://openreview.net/forum?id=QGrkbaan79) |
+| [NeurIPS link](https://neurips.cc/virtual/2023/poster/71713) | | |
 ***
 ***
