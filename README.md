@@ -18,12 +18,11 @@
 [Detection](#detection) | [Watermarking](#watermarking) | [Origin Attribution](#origin-attribution) | [Bias/Fairness](#bias-fairness) | [Explainability](#explainability) | [Other](#other) |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
-***
 ### Observations
 
 <p float="left">
-  <img src="./images/New_F_1.jpeg" width="45%" />
-  <img src="./images/New_F_2.jpeg" width="45%" /> 
+  <img src="./images/New_F_1.jpeg" width="25%" />
+  <img src="./images/New_F_2.jpeg" width="75%" /> 
 </p>
 
 ![OpenAI](./images/NPS-v07-p26.png)
