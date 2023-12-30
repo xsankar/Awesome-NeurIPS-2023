@@ -12,6 +12,9 @@
 [Prompting](#prompting) | [SLM](#slm) | [Training Efficiency](#training-efficiency) | [Fine Tuning/RAG](#fine-tuning-rag) | [Attack Mitigation](#attack-mitigation) | [Datasets](#datasets) | [Benchmarks](#benchmarks) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 ---
+[Decoding Transformers](#decoding-transformers) | [NN Design & Insights](#nn-design--insights) | [Embedding](#embedding) |  | |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+---
 ### Metrics & Benchmarks by Topic (See [LLM Evaluation Topics for a quick intro](#llm-evaluation-topics))
 
 | [Dialogue Kinetics](#dialogue-kinetics) | [Bias](#bias) | [Toxicity](#toxicity) | [Robustness](#robustness) | [Factuality](#factuality) | [Hallucination](#hallucination) | [Accuracy](#accuracy) | [Alignment](#alignment) |
