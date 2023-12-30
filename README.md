@@ -21,8 +21,8 @@
 ### Observations
 
 <p float="left">
-  <img src="./images/New_F_1.jpeg" width="35%" />
-  <img src="./images/New_F_2.jpeg" width="60%" /> 
+  <img src="./images/New_F_1.jpeg" width="25%" />
+  <img src="./images/New_F_2.jpeg" width="70%" /> 
 </p>
 
 ![OpenAI](./images/NPS-v07-p26.png)
