@@ -34,6 +34,13 @@
 
 ***
 
+<p float="left" >
+  <img align="top" src="./images/fm-1.jpeg" width="25%" />
+  <img align="top" src="./images/fm-21.jpeg" width="73%" /> 
+</p>
+
+***
+
 <p float="left">
   <img align="top" src="./images/New_F_1.jpeg" width="25%" />
   <img align="top" src="./images/New_F_2.jpeg" width="73%" /> 
@@ -41,9 +48,9 @@
 
 ***
 
-<p align="top" float="left">
-  <img src="./images/out_1.jpeg" width="25%" />
-  <img src="./images/out_2.jpeg" width="73%" /> 
+<p float="left">
+  <img align="top" src="./images/out_1.jpeg" width="25%" />
+  <img align="top" src="./images/out_2.jpeg" width="73%" /> 
 </p>
 
 ***
