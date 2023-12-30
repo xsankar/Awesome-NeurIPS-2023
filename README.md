@@ -20,7 +20,7 @@
 ---
 ### Observations
 
-<p align="top" float="left">
+<p align="top" >
   <img src="./images/Shift_01.jpeg" width="25%" />
   <img src="./images/Shift_02.jpeg" width="73%" /> 
 </p>
