@@ -29,7 +29,7 @@
 
 <p float="left" >
   <img align="top" src="./images/fl-1.jpeg" width="25%" />
-  <img align="top" src="./images/fl-21.jpeg" width="73%" /> 
+  <img align="top" src="./images/FL_2.jpeg" width="73%" /> 
 </p>
 
 ***
