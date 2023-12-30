@@ -28,8 +28,8 @@
 ***
 
 <p align="top" >
-  <img src="./images/fl_1.jpeg" width="25%" />
-  <img src="./images/fl_21.jpeg" width="73%" /> 
+  <img src="./images/fl-1.jpeg" width="25%" />
+  <img src="./images/fl-21.jpeg" width="73%" /> 
 </p>
 
 ***
