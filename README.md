@@ -22,7 +22,7 @@
 
 <p float="left" >
   <img align="top" src="./images/Shift_01.jpeg" width="25%" />
-  <img align="top" src="./images/Shift_02.jpeg" width="73%" /> 
+  <img align="top" src="./images/Shift_2.jpeg" width="73%" /> 
 </p>
 
 ***
