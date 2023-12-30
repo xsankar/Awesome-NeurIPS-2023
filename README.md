@@ -6,9 +6,10 @@
 > | :- |
 > 
 ---
-| [Now](#now) | [Interesting](#interesting) | [Towards AGI](#towards-agi) | [Planning](#planning) | [Reasoning](reasoning) | [Alignment](alignment) | [Rl](rl) |
+| [Now](#now) | [Interesting](#interesting) | [Towards AGI](#towards-agi) | [Planning](#planning) | [Reasoning](reasoning) | [Alignment](alignment) | [RL](rl) |
 | :- | :- | :- | :- | :- | :- | :- |
 |  |  |  |  |  |  |  |
+---
 [Prompting](#prompting) | [SLM](#slm) | [Training Efficiency](#training-efficiency) | [Fine Tuning/RAG](#fine-tuning-rag) | [Datasets](#datasets) | [Benchmarks](#benchmarks) | [Attack Mitigation](#attack-mitigation) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  |  |  |  |  |  |  |
