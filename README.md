@@ -68,10 +68,10 @@
 ***
 ## AI Generated Text Detection
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Title | Poster | Paper | 
-| -: | :- | :- |
-| RADAR: Robust AI-Text Detection via Adversarial Learning <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/71713)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71713.png?t=1699290320.7839897) | [Paper](https://openreview.net/forum?id=QGrkbaan79) |
-| Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/72624)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72624.png?t=1701451368.9923096) | [Paper](https://openreview.net/forum?id=8uOZ0kNji6) |
+| Title | Poster | Paper | Github |
+| -: | :- | :- | :- |
+| RADAR: Robust AI-Text Detection via Adversarial Learning <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/71713)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71713.png?t=1699290320.7839897) | [Paper](https://openreview.net/forum?id=QGrkbaan79) | |
+| Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/72624)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72624.png?t=1701451368.9923096) | [Paper](https://openreview.net/forum?id=8uOZ0kNji6) | |
 |  | | |
 ***
 ***
