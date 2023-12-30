@@ -20,11 +20,11 @@
 ---
 ### Observations
 
-<p float="left">
+<p align="top" float="left">
   <img src="./images/Shift_01.jpeg" width="25%" />
   <img src="./images/Shift_02.jpeg" width="73%" /> 
 </p>
-<p float="left">
+<p align="top" float="left">
   <img src="./images/New_F_1.jpeg" width="25%" />
   <img src="./images/New_F_2.jpeg" width="73%" /> 
 </p>
