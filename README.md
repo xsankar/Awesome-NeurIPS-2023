@@ -8,11 +8,9 @@
 ---
 | [Now](#now) | [Interesting](#interesting) | [Towards AGI](#towards-agi) | [Planning](#planning) | [Reasoning](reasoning) | [Alignment](alignment) | [RL](rl) |
 | :- | :- | :- | :- | :- | :- | :- |
-|  |  |  |  |  |  |  |
 ---
-[Prompting](#prompting) | [SLM](#slm) | [Training Efficiency](#training-efficiency) | [Fine Tuning/RAG](#fine-tuning-rag) | [Datasets](#datasets) | [Benchmarks](#benchmarks) | [Attack Mitigation](#attack-mitigation) |
+[Prompting](#prompting) | [SLM](#slm) | [Training Efficiency](#training-efficiency) | [Fine Tuning/RAG](#fine-tuning-rag) | [Attack Mitigation](#attack-mitigation) | [Datasets](#datasets) | [Benchmarks](#benchmarks) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  |  |  |  |  |  |  |
 ---
 ### Metrics & Benchmarks by Topic (See [LLM Evaluation Topics for a quick intro](#llm-evaluation-topics))
 
