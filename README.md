@@ -68,9 +68,9 @@
 ***
 ## AI Generated Test Detection
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Title | Title | Notes | 
+| Title | Poster | Paper | 
 | -: | :- | :- |
-| RADAR: Robust AI-Text Detection via Adversarial Learning | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71713.png?t=1699290320.7839897) | [Paper](https://openreview.net/forum?id=QGrkbaan79) |
-| [NeurIPS link](https://neurips.cc/virtual/2023/poster/71713) | | |
+| RADAR: Robust AI-Text Detection via Adversarial Learning <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/71713)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71713.png?t=1699290320.7839897) | [Paper](https://openreview.net/forum?id=QGrkbaan79) |
+|  | | |
 ***
 ***
