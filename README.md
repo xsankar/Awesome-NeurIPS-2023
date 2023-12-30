@@ -66,6 +66,13 @@
 | -: | :- | :- |
 | | Survey Papers | |
 ***
+## Datasets
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | Paper | Github |
+| -: | -: | -: | -: |
+| Where Did I Come From? Origin Attribution of AI-Generated Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70868)|  | [Paper](https://openreview.net/forum?id=g8bjq0qxOl) | |
+| | | |
+***
 ## AI Generated Text Detection
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | Paper | Github |
