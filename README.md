@@ -36,7 +36,7 @@
 
 <p float="left" >
   <img align="top" src="./images/fm-11.jpeg" width="25%" />
-  <img align="top" src="./images/fm-2.jpeg" width="73%" /> 
+  <img align="top" src="./images/fm_2.jpeg" width="73%" /> 
 </p>
 
 ***
