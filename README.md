@@ -21,19 +21,14 @@
 ### Observations
 
 <p float="left">
+  <img src="./images/Shift_01.jpeg" width="25%" />
+  <img src="./images/Shift_02.jpeg" width="70%" /> 
+</p>
+<p float="left">
   <img src="./images/New_F_1.jpeg" width="25%" />
   <img src="./images/New_F_2.jpeg" width="70%" /> 
 </p>
 
-![OpenAI](./images/NPS-v07-p26.png)
-***
-![OpenAI](./images/LLMSec_P28.jpeg)
-***
-![OpenAI](./images/NPS-v07-p29.png)
-***
-![OpenAI](./images/LLMSec_P25.jpeg)
-***
-![OpenAI](./images/NPS-v07-p31.png)
 ***
 | [Survey & Analytical Paper Collection](#survey--analytical-papers) | [Guardrail Platforms](#guardrail-platforms) | [Multi Benchmark Frameworks](#multi-benchmark-frameworks) | [Metrics & Benchmarks by Topic](#metrics--benchmarks-by-topic) | [Datasets](#datasets) | [Data Leakage](#data-leakage) | [Other Repos](#other-repos) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
