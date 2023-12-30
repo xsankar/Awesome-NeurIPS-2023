@@ -70,22 +70,22 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | Paper | Github |
 | -: | -: | -: | -: |
-| RADAR: Robust AI-Text Detection via Adversarial Learning <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/71713)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71713.png?t=1699290320.7839897) | [Paper](https://openreview.net/forum?id=QGrkbaan79) | |
-| Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/72624)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72624.png?t=1701451368.9923096) | [Paper](https://openreview.net/forum?id=8uOZ0kNji6) | |
+| RADAR: Robust AI-Text Detection via Adversarial Learning <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71713)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71713.png?t=1699290320.7839897) | [Paper](https://openreview.net/forum?id=QGrkbaan79) | |
+| Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72624)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72624.png?t=1701451368.9923096) | [Paper](https://openreview.net/forum?id=8uOZ0kNji6) | |
 | | | |
 ***
 ## Watermarking
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | Paper | Github |
 | -: | -: | -: | -: |
-| Tree-Rings Watermarks: Invisible Fingerprints for Diffusion Images <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/71259)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71259.png?t=1699370145.5634189) | [Paper](https://openreview.net/forum?id=Z57JrmubNl) | [Github](https://github.com/YuxinWenRick/tree-ring-watermark)|
+| Tree-Rings Watermarks: Invisible Fingerprints for Diffusion Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71259)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71259.png?t=1699370145.5634189) | [Paper](https://openreview.net/forum?id=Z57JrmubNl) | [Github](https://github.com/YuxinWenRick/tree-ring-watermark)|
 | | | |
 ***
 ## Origin Attribution
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | Paper | Github |
 | -: | -: | -: | -: |
-| Where Did I Come From? Origin Attribution of AI-Generated Images <br> [NeurIPS link](https://neurips.cc/virtual/2023/poster/70868)|  | [Paper](https://openreview.net/forum?id=g8bjq0qxOl) | |
+| Where Did I Come From? Origin Attribution of AI-Generated Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70868)|  | [Paper](https://openreview.net/forum?id=g8bjq0qxOl) | |
 | | | |
 ***
 ***
