@@ -4,7 +4,8 @@
 | :- | :- |
 > |***As of 11.30.23, I am working hard to build the repos - takes time to review and curate. Appreciate your patience ... Thanks ...***|
 > | :- |
-> 
+>
+![](./images/Top.jpeg)
 ---
 | [Now](#now) | [Interesting](#interesting) | [Towards AGI](#towards-agi) | [Planning](#planning) | [Reasoning](reasoning) | [Alignment](alignment) | [RL](rl) |
 | :- | :- | :- | :- | :- | :- | :- |
