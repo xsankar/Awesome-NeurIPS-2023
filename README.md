@@ -20,10 +20,12 @@
 ---
 ***
 ### Observations
+
 <p float="left">
   <img src="./images/img1.png" width="45%" />
   <img src="./images/img2.png" width="45%" /> 
 </p>
+
 ![OpenAI](./images/NPS-v07-p26.png)
 ***
 ![OpenAI](./images/LLMSec_P28.jpeg)
