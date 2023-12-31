@@ -90,7 +90,8 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Moral Responsibility for AI Systems <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70687)| | [Paper](https://openreview.net/forum?id=jYIknUIgkd) | |
+| Aligning Language Models with Human Preferences via a Bayesian Approach <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72170)| | [Paper](https://openreview.net/forum?id=HGFcM3UU50) | |
 | | | |
 ***
 ## RL
