@@ -74,7 +74,7 @@
 ***
 ## Planning
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Title | Poster | OpenReview | GitHub |
+| Title | Poster | Paper | GitHub |
 | -: | -: | :-: | -: |
 | On the Planning Abilities of Large Language Models - A Critical Investigation <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71377)| | [Paper](https://openreview.net/forum?id=X6dEqXIsEW) | [GitHub](https://github.com/karthikv792/LLMs-Planning) |
 | Evaluating Cognitive Maps and Planning in Large Language Models with CogEval <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71431) <br> _Notes:CogEval, a cognitive science-inspired protocol for the systematic evaluation of cognitive capacities in LLMs. The CogEval protocol can be followed for the evaluation of various abilities_| | [Paper](https://openreview.net/forum?id=VtkGvGcGe3) | [GitHub](https://github.com/cogeval/cogmaps) |
