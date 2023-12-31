@@ -64,16 +64,29 @@
 ***
 ## Interesting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> Papers one should think about. New Computing Paradigms, a new object detection variation (Gold-YOLO), local LIME (GLIME), couple of papers on Nash, ChessGPT (one of my long term interests to see if GPT can play like Tal, Paul Keras, Paul Morphy, Capablanca, Botvinnik and of course Fisher!),…
+> Papers one should think about. New Computing Paradigms, a new object detection variation (Gold-YOLO), couple of papers on Nash, ChessGPT (one of my long term interests to see if GPT can play like Tal, Paul Keras, Paul Morphy, Capablanca, Botvinnik and of course Fisher!),…
 > >
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
+| Machine Learning with New Compute Paradigms <br> [NeurIPS link - Workshop Video & Abstract](https://neurips.cc/virtual/2023/workshop/66533)| | | [Workshop](https://www.mlwithnewcompute.com/) |
+| Workshop : Information-Theoretic Principles in Cognitive Systems (InfoCog) <br> [NeurIPS link - Workshop Video & Abstract](https://neurips.cc/virtual/2023/workshop/66535)| | | [Workshop](https://sites.google.com/view/infocog-neurips-2023) |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 | | | | |
 ***
 ## Towards AGI
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > General AGI related papers. I have broken out other AGI relevant sections by themselves below - Planning, Reasoning, Alignment & RL
+> IMHO there is no real AGI paper yet
 > 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
