@@ -8,8 +8,8 @@
 | [Now](#now) | [Interesting](#interesting) | [Towards AGI](#towards-agi) | [Planning](#planning) | [Reasoning](#reasoning) | [Alignment](#alignment) | [RL](#rl) |
 | :- | :- | :- | :- | :- | :- | :- |
 
-[Prompting](#prompting) | [Small Language Models](#slm) | [Training Efficiency](#training-efficiency) | [Fine Tuning/RAG](#fine-tuningragefficient-learning) | [Attack Mitigation](#attack-mitigation) | [Datasets](#datasets) | [Benchmarks](#benchmarks) |
-| :- | :- | :- | :- | :- | :- | :- |
+[Prompting](#prompting) | [Small Language Models](#slm) | [Attack Mitigation](#attack-mitigation) | [Datasets](#datasets) | [Benchmarks](#benchmarks) |
+| :- | :- | :- | :- | :- |
 
 [Decoding Transformers](#decoding-transformers) | [NN Design & Insights](#nn-design--insights) | [Embedding](#embedding) |  | |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -134,20 +134,6 @@
 | -: | -: | :-: | :-: |
 | NeurIPS Large Language Model Efficiency Challenge: 1 LLM + 1GPU + 1Day <br> [NeurIPS link - 3hr Video & Abstract](https://neurips.cc/virtual/2023/competition/66594) <br> _Notes:Listen to winning team’s strategies. Lots of good invited speakers_| | | [Project Page](https://llm-efficiency-challenge.github.io/) |
 | Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70015)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70015.png?t=1702002600.6314964) | [Paper](https://openreview.net/forum?id=xJLEQQrFia) | |
-| | | | |
-***
-## Training Efficiency
-[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Title | Poster | OpenReview | GitHub |
-| -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-| | | | |
-***
-## Fine Tuning/RAG/Efficient Learning
-[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Title | Poster | OpenReview | GitHub |
-| -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 | | | | |
 ***
 ## Attack mitigation
