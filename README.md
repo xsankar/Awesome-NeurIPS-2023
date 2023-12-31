@@ -55,6 +55,7 @@
 ***
 ## Now
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> Papers I want to read and understand now. Also have tagged interesting papers from other sections in **bold**
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
@@ -62,6 +63,7 @@
 ***
 ## Interesting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> Papers one should think about. New Computing Paradigms, a new object detection variation (Gold-YOLO), local LIME (GLIME), couple of papers on Nash, ChessGPT (one of my long term interests to see if GPT can play like Tal, Paul Keras, Paul Morphy, Capablanca, Botvinnik and of course Fisher!),…
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
@@ -69,6 +71,7 @@
 ***
 ## Towards AGI
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> General AGI related papers. I have broken out other AGI relevant sections by themselves below - Planning, Reasoning, Alignment & RL
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | **AI meets Moral Philosophy and Moral Psychology: An Interdisciplinary Dialogue about Computational Ethics**  <br> [NeurIPS link - Workshop Videos & Abstract](https://neurips.cc/virtual/2023/workshop/66528) <br> _Notes:a series of in-person invited talks from leading scholars working at the intersection of AI, psychology, and philosophy on issues related to morality| | | [GitHub](https://aipsychphil.github.io/) |
@@ -126,6 +129,7 @@
 ***
 ## Prompting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> Prompting definitely is a section by itself
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71118)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71118.png?t=1702407730.4543743) | [Paper](https://openreview.net/forum?id=bzs4uPLXvi) | |
@@ -139,6 +143,7 @@
 ***
 ## SLM
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> Small Language Models - not getting enough attendtion!
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | :-: |
 | NeurIPS Large Language Model Efficiency Challenge: 1 LLM + 1GPU + 1Day <br> [NeurIPS link - 3hr Video & Abstract](https://neurips.cc/virtual/2023/competition/66594) <br> _Notes:Listen to winning team’s strategies. Lots of good invited speakers_| | | [Project Page](https://llm-efficiency-challenge.github.io/) |
@@ -171,6 +176,7 @@
 ***
 ## Datasets
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> Datasets curation is an under appreciated and thankless work - extremely essential. So kudos to the authors of these papers. We all should contribute to dataset curation …
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
