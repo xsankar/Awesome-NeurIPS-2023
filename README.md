@@ -74,7 +74,7 @@
 ***
 ## Planning
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Title | Poster | Paper | GitHub |
+| Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | On the Planning Abilities of Large Language Models - A Critical Investigation <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71377)| | [Paper](https://openreview.net/forum?id=X6dEqXIsEW) | [GitHub](https://github.com/karthikv792/LLMs-Planning) |
 | Evaluating Cognitive Maps and Planning in Large Language Models with CogEval <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71431) <br> _Notes:CogEval, a cognitive science-inspired protocol for the systematic evaluation of cognitive capacities in LLMs. The CogEval protocol can be followed for the evaluation of various abilities_| | [Paper](https://openreview.net/forum?id=VtkGvGcGe3) | [GitHub](https://github.com/cogeval/cogmaps) |
@@ -106,13 +106,18 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| CQM: Curriculum Reinforcement Learning with a Quantized World Model <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70196)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70196.png?t=1701681411.8492868) | [Paper](https://openreview.net/forum?id=tcotyjon2a) |  |
+| Off-Policy Evaluation for Human Feedback <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72371)| | [Paper](https://openreview.net/forum?id=DOdaV0Hqdy) | |
+| RLHF <br> _Notes:RLHF - optimizing against a reward model can improve on reward while degrading performance in other areas, a phenomenon known as reward hacking, alignment tax, or language drift_ | | |
+| Fine-Grained Human Feedback Gives Better Rewards for Language Model Training <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72428)| | [Paper](https://openreview.net/forum?id=CSbGXyCswu) | [GitHub](https://finegrainedrlhf.github.io/) |
+| Is RLHF More Difficult than Standard RL? A Theoretical Perspective <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70238)| | [Paper](https://openreview.net/forum?id=sxZLrBqg50) | |
 | | | |
 ***
 ## Prompting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 | | | |
 ***
