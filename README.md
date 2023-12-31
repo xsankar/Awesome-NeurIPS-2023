@@ -94,4 +94,28 @@
 | Where Did I Come From? Origin Attribution of AI-Generated Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70868)|  | [Paper](https://openreview.net/forum?id=g8bjq0qxOl) | |
 | | | |
 ***
+## Bias/Fairness
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | Paper | Github |
+| -: | -: | -: | -: |
+| Where Did I Come From? Origin Attribution of AI-Generated Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70868)|  | [Paper](https://openreview.net/forum?id=g8bjq0qxOl) | |
+| | | |
+***
+## Explainability
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | Paper | Github |
+| -: | -: | -: | -: |
+| Where Did I Come From? Origin Attribution of AI-Generated Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70868)|  | [Paper](https://openreview.net/forum?id=g8bjq0qxOl) | |
+| | | |
+***
+## Other
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | Paper | Github |
+| -: | -: | -: | -: |
+| MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71519)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71519.png?t=1698648523.5159426) | [Paper](https://openreview.net/forum?id=UFW67uduJd) | [Github](https://github.com/gunny97/MEMTO)|
+| When Do Neural Nets Outperform Boosted Trees on Tabular Data? <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73658)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73658.png?t=1702274686.1162755) | [Paper](https://openreview.net/forum?id=CjVdXey4zT) | |
+| Encoding Human Behavior in Information Design through Deep Learning <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71241)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71241.png?t=1702235033.2933419) | [Paper](https://openreview.net/forum?id=ZOKhtz2Z9X) | |
+| Monte Carlo Tree Search with Boltzmann Exploration <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71873) <br> _I have been doing some work in MCTS since the days of AlphaGO. I still have some code and a beautiful go board with exotic stones_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71873.png?t=1702041264.953116) | [Paper]([https://openreview.net/forum?id=ZOKhtz2Z9X](https://openreview.net/forum?id=NG4DaApavi)) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/71873.pdf)| |
+| | | |
+***
 ***
