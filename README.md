@@ -76,7 +76,7 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-| RETVec: Resilient and Efficient Text Vectorizer <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70409)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70409.png?t=1702068905.7971084) | [Paper](https://openreview.net/forum?id=pVlC0reMKq) | [GitHub](https://github.com/google-research/retvec) |
+| RETVec: Resilient and Efficient Text Vectorizer <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70409) <br> _New research from Google. RETVec leads to competitive, multilingual models that are significantly more resilient to typos and adversarial text attacks_ | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70409.png?t=1702068905.7971084) | [Paper](https://openreview.net/forum?id=pVlC0reMKq) | [GitHub](https://github.com/google-research/retvec) |
 | | | |
 ***
 ## AI Generated Text Detection
