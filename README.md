@@ -71,7 +71,13 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| **AI meets Moral Philosophy and Moral Psychology: An Interdisciplinary Dialogue about Computational Ethics**  <br> [NeurIPS link - Workshop Videos & Abstract](https://neurips.cc/virtual/2023/workshop/66528) <br> _Notes:a series of in-person invited talks from leading scholars working at the intersection of AI, psychology, and philosophy on issues related to morality| | | [GitHub](https://aipsychphil.github.io/) |
+| **Language Models Meet World Models** <br> [NeurIPS link - Tutorial Video & Abstract](https://neurips.cc/virtual/2023/tutorial/73952)| | [Paper](https://arxiv.org/abs/2312.05230) <br> [Slides](https://sites.google.com/view/neurips2023law) | [GitHub]() |
+| **Are Emergent Abilities of Large Language Models a Mirage?** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73863)| [Poster](https://neurips.cc/virtual/2023/poster/72117) | [Paper](https://openreview.net/forum?id=ITw9edRDlD) | |
+| Competition : MyoChallenge 2023: Towards Human-Level Dexterity and Agility <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/competition/66584)| | | [GitHub](https://sites.google.com/view/myosuite/myosymposium/neurips23) |
+| OpenAGI: When LLM Meets Domain Experts <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73509)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73509.png?t=1701378318.151941) | [Paper](https://openreview.net/forum?id=gFf0a0ZxJM) | [GitHub](https://github.com/agiresearch/OpenAGI) |
+| Self-Predictive Universal AI <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70391)| | [Paper](https://openreview.net/forum?id=psXVkKO9No) | |
+| Parsel: Algorithmic Reasoning with Language Models by Composing Decompositions <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70349)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70349.png?t=1701393593.731503) | [Paper](https://openreview.net/forum?id=qd9qcbVAwQ) | |
 | | | | |
 ***
 ## Planning
@@ -81,6 +87,8 @@
 | On the Planning Abilities of Large Language Models - A Critical Investigation <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71377)| | [Paper](https://openreview.net/forum?id=X6dEqXIsEW) | [GitHub](https://github.com/karthikv792/LLMs-Planning) |
 | Evaluating Cognitive Maps and Planning in Large Language Models with CogEval <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71431) <br> _Notes:CogEval, a cognitive science-inspired protocol for the systematic evaluation of cognitive capacities in LLMs. The CogEval protocol can be followed for the evaluation of various abilities_| | [Paper](https://openreview.net/forum?id=VtkGvGcGe3) | [GitHub](https://github.com/cogeval/cogmaps) |
 | Thinker: Learning to Plan and Act <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70532)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70532.png?t=1699536681.112018) | [Paper](https://openreview.net/forum?id=mumEBl0arj) | |
+| Compositional Foundation Models for Hierarchical Planning <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70994) <br> _Notes:To make effective decisions in novel environments with long-horizon goals, it is crucial to engage in hierarchical reasoning across spatial and temporal scales. This entails planning abstract subgoal sequences, visually reasoning about the underlying plans, and executing actions in accordance with the devised plan through visual-motor control_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70994.png?t=1702492409.9302647) | [Paper](https://openreview.net/forum?id=dyXNh5HLq3) | [GitHub](https://hierarchical-planning-foundation-model.github.io/) |
+| Large Language Models as Commonsense Knowledge for Large-Scale Task Planning <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71394)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71394.png?t=1701672829.859892)  <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/71394_OsJi6qT.pdf)| [Paper](https://openreview.net/forum?id=Wjp1AYB8lH) | [GitHub](https://llm-mcts.github.io/) |
 | | | | |
 ***
 ## Reasoning
