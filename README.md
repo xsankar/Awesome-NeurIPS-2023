@@ -55,21 +55,105 @@
 ***
 ## Now
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Year | Title | Notes | 
-| -: | :- | :- |
-| | Survey Papers | |
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 ***
 ## Interesting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Year | Title | Notes | 
-| -: | :- | :- |
-| | Survey Papers | |
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+***
+## Towards AGI
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Planning
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Reasoning
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Alignment
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## RL
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Prompting
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## SLM
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Training Efficiency
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Fine tuning/RAG/Efficient Learning
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Attack mitigation
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
 ***
 ## Datasets
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-| Where Did I Come From? Origin Attribution of AI-Generated Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70868)|  | [Paper](https://openreview.net/forum?id=g8bjq0qxOl) | |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Benchmarks
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| | | |
+***
+## Decoding Transformers
+[<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+| Title | Poster | OpenReview | GitHub |
+| -: | -: | :-: | -: |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 | | | |
 ***
 ## NN Design & Insights
@@ -77,7 +161,7 @@
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73847) <br> _Notes: Looks like a very interesting paper. It was an oral_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | [Paper](https://openreview.net/forum?id=S5wmbQc1We) | |
-| Symmetry and Geometry in Neural Representations <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/workshop/66503) <br>  _Notes: Very interesting workshop. Bringing together researchers at the intersection of mathematics, deep learning, and neuroscience to uncover principles of neural representation in brains and machines. Over my head, but should be interesting for those of you who can grok it !_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | | [Workshop](https://www.neurreps.org/) |
+| Symmetry and Geometry in Neural Representations <br> [NeurIPS link - Full Video & Abstract](https://neurips.cc/virtual/2023/workshop/66503) <br>  _Notes: Very interesting workshop. Bringing together researchers at the intersection of mathematics, deep learning, and neuroscience to uncover principles of neural representation in brains and machines. Over my head, but should be interesting for those of you who can grok it !_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | | [Workshop](https://www.neurreps.org/) |
 | | | |
 ***
 ## Embedding
