@@ -110,7 +110,7 @@
 ***
 ## Other
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Title | Poster | Paper with Review Comments | Github |
+| Title | Poster | OpenReview | Github |
 | -: | -: | -: | -: |
 | MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71519)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71519.png?t=1698648523.5159426) | [Paper](https://openreview.net/forum?id=UFW67uduJd) | [Github](https://github.com/gunny97/MEMTO)|
 | When Do Neural Nets Outperform Boosted Trees on Tabular Data? <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73658)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73658.png?t=1702274686.1162755) | [Paper](https://openreview.net/forum?id=CjVdXey4zT) | |
