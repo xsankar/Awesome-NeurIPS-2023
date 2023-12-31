@@ -83,7 +83,7 @@
 ***
 ## Reasoning
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-| Title | Poster | OpenReview | GitHub |
+| Title | Poster | Paper | GitHub |
 | -: | -: | :-: | -: |
 | Why think step by step? Reasoning emerges from the locality of experience <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70306)| | [Paper](https://openreview.net/forum?id=rcXXNFVlEn) | [GitHub](https://github.com/benpry/why-think-step-by-step) |
 | Self-Evaluation Guided Beam Search for Reasoning <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72456) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/72456.pdf)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72456.png?t=1701664029.2364998) | [Paper](https://openreview.net/forum?id=Bw82hwg5Q3) | [GitHub](https://guideddecoding.github.io/) |
