@@ -76,14 +76,22 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| On the Planning Abilities of Large Language Models - A Critical Investigation <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71377)| | [Paper](https://openreview.net/forum?id=X6dEqXIsEW) | [GitHub](https://github.com/karthikv792/LLMs-Planning) |
+| Evaluating Cognitive Maps and Planning in Large Language Models with CogEval <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71431) <br> _Notes:CogEval, a cognitive science-inspired protocol for the systematic evaluation of cognitive capacities in LLMs. The CogEval protocol can be followed for the evaluation of various abilities_| | [Paper](https://openreview.net/forum?id=VtkGvGcGe3) | [GitHub](https://github.com/cogeval/cogmaps) |
+| Thinker: Learning to Plan and Act <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70532)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70532.png?t=1699536681.112018) | [Paper](https://openreview.net/forum?id=mumEBl0arj) | |
 | | | |
 ***
 ## Reasoning
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Why think step by step? Reasoning emerges from the locality of experience <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70306)| | [Paper](https://openreview.net/forum?id=rcXXNFVlEn) | [GitHub](https://github.com/benpry/why-think-step-by-step) |
+| Self-Evaluation Guided Beam Search for Reasoning <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72456) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/72456.pdf)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72456.png?t=1701664029.2364998) | [Paper](https://openreview.net/forum?id=Bw82hwg5Q3) | [GitHub](https://guideddecoding.github.io/) |
+| Deductive Verification of Chain-of-Thought Reasoning <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72140)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72140.png?t=1701834534.4943933) | [Paper](https://openreview.net/forum?id=I5rsM4CY2z) | |
+| Training Chain-of-Thought via Latent-Variable Inference <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71210)| | [Paper](https://openreview.net/forum?id=a147pIS2Co) | |
+| Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71923)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71923.png?t=1702192637.0153663) | [Paper](https://openreview.net/forum?id=MCVfX7HgPO) | [GitHub](https://github.com/asaparov/prontoqa) |
+| **RealTime QA: What's the Answer Right Now?** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73639)| | [Paper](https://openreview.net/forum?id=HfKOIPCvsv) | [GitHub](https://realtimeqa.github.io/) |
+| **What’s Left? Concept Grounding with Logic-Enhanced Foundation Models** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70248)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70248.png?t=1701415590.6883197) | [Paper](https://openreview.net/forum?id=sq4o3tjWaj) | [GitHub](https://web.stanford.edu/~joycj/projects/left_neurips_2023) |
 | | | |
 ***
 ## Alignment
