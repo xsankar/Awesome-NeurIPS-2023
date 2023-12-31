@@ -105,7 +105,7 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | Github |
 | -: | -: | :-: | -: |
-| XAI in Action: Past, Present, and Future Applications <br> [NeurIPS Workshop link](https://neurips.cc/virtual/2023/workshop/66529)| | | [Workshop](https://xai-in-action.github.io/)|
+| XAI in Action: Past, Present, and Future Applications <br> [NeurIPS Workshop Video](https://neurips.cc/virtual/2023/workshop/66529)| | | [Workshop](https://xai-in-action.github.io/)|
 | Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73908)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73908.png?t=1701864662.2619634) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/73908.pdf) | [JMLR Paper](https://jmlr.org/papers/v24/22-0142.html) | [GitHub](https://github.com/understandable-machine-intelligence-lab/Quantus) |
 | Post Hoc Explanations of Language Models Can Improve Language Models <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72907)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72907.png?t=1697514532.1567976) | [Paper](https://openreview.net/forum?id=3H37XciUEv) | |
 | | | |
