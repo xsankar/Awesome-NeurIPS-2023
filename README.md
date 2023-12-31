@@ -116,6 +116,7 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
+| **Would I have gotten that reward? Long-term credit assignment by counterfactual contribution analysis** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/69923)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/69923.png?t=1702056992.4346392) | [Paper](https://openreview.net/forum?id=yvqqkOn9Pi) | |
 | CQM: Curriculum Reinforcement Learning with a Quantized World Model <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70196)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70196.png?t=1701681411.8492868) | [Paper](https://openreview.net/forum?id=tcotyjon2a) |  |
 | Off-Policy Evaluation for Human Feedback <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72371)| | [Paper](https://openreview.net/forum?id=DOdaV0Hqdy) | |
 | RLHF <br> _Notes:RLHF - optimizing against a reward model can improve on reward while degrading performance in other areas, a phenomenon known as reward hacking, alignment tax, or language drift_ | | |
