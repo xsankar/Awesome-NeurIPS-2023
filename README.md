@@ -133,6 +133,7 @@
 ## Prompting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > Prompting definitely is a section by itself
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71118)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71118.png?t=1702407730.4543743) | [Paper](https://openreview.net/forum?id=bzs4uPLXvi) | |
