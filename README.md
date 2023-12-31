@@ -76,8 +76,8 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-| The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73847) <br> _Notes: Very interesting workshop. Bringing together researchers at the intersection of mathematics, deep learning, and neuroscience to uncover principles of neural representation in brains and machines_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | [Paper](https://openreview.net/forum?id=S5wmbQc1We) | |
-| Symmetry and Geometry in Neural Representations <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/workshop/66503) <br> _Notes: Looks like a very interesting paper_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | | [Workshop](https://www.neurreps.org/) |
+| The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73847) <br> _Notes: Looks like a very interesting paper. It was an oral_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | [Paper](https://openreview.net/forum?id=S5wmbQc1We) | |
+| Symmetry and Geometry in Neural Representations <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/workshop/66503) <br>  _Notes: Very interesting workshop. Bringing together researchers at the intersection of mathematics, deep learning, and neuroscience to uncover principles of neural representation in brains and machines. Over my head, but should be interesting for those of you who can grok it !_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | | [Workshop](https://www.neurreps.org/) |
 | | | |
 ***
 ## Embedding
