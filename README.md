@@ -8,7 +8,7 @@
 | [Now](#now) | [Interesting](#interesting) | [Towards AGI](#towards-agi) | [Planning](#planning) | [Reasoning](#reasoning) | [Alignment](#alignment) | [RL](#rl) |
 | :- | :- | :- | :- | :- | :- | :- |
 
-[Prompting](#prompting) | [Small Language Models](#slm) | [Training Efficiency](#training-efficiency) | [Fine Tuning/RAG](#fine-tuning-rag) | [Attack Mitigation](#attack-mitigation) | [Datasets](#datasets) | [Benchmarks](#benchmarks) |
+[Prompting](#prompting) | [Small Language Models](#slm) | [Training Efficiency](#training-efficiency) | [Fine Tuning/RAG](#fine-tuningragefficient-learning) | [Attack Mitigation](#attack-mitigation) | [Datasets](#datasets) | [Benchmarks](#benchmarks) |
 | :- | :- | :- | :- | :- | :- | :- |
 
 [Decoding Transformers](#decoding-transformers) | [NN Design & Insights](#nn-design--insights) | [Embedding](#embedding) |  | |  |  |
@@ -121,7 +121,7 @@
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 | | | |
 ***
-## Fine tuning/RAG/Efficient Learning
+## Fine Tuning/RAG/Efficient Learning
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
