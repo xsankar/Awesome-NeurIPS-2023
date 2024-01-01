@@ -56,6 +56,7 @@
 ## Now
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > xx Papers
+> 
 > Papers I want to read and understand now. Also have tagged interesting papers from other sections in **bold**
 > 
 | Title | Poster | OpenReview | GitHub |
@@ -66,6 +67,7 @@
 ## Interesting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > 13 Papers
+> 
 > _**Papers one should think about. New Computing Paradigms, a new object detection variation (Gold-YOLO), couple of papers on Nash, ChessGPT (_one of my long term interests to see if GPT can play like Tal, Paul Keras, Paul Morphy, Capablanca, Botvinnik and of course Fisher!_),…**_
 > >
 | Title | Poster | OpenReview | GitHub |
@@ -88,6 +90,7 @@
 ## Towards AGI
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > 7 Papers
+> 
 > _**General AGI related papers. I have broken out other AGI relevant sections by themselves below - Planning, Reasoning, Alignment & RL**_
 > _**IMHO there is no real AGI paper yet**_
 > 
@@ -157,6 +160,7 @@
 ## Prompting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > 7 Papers
+> 
 > _**Prompting definitely is a section by itself**_
 > 
 | Title | Poster | OpenReview | GitHub |
@@ -173,6 +177,7 @@
 ## SLM
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > 2 Papers
+> 
 > _**Small Language Models - not getting enough attendtion!**_
 > 
 | Title | Poster | OpenReview | GitHub |
@@ -214,6 +219,7 @@
 ## Datasets
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 > 13 Papers
+> 
 > _**Datasets curation is an under appreciated and thankless work - extremely essential. So kudos to the authors of these papers. We all should contribute to dataset curation …**_
 > 
 | Title | Poster | OpenReview | GitHub |
@@ -280,7 +286,8 @@
 ***
 ## NN Design & Insights
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> 2 Paper
+> 2 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73847) <br> _Notes: Looks like a very interesting paper. It was an oral_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | [Paper](https://openreview.net/forum?id=S5wmbQc1We) | |
