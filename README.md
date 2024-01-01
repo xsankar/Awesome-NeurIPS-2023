@@ -173,27 +173,27 @@
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | Red Teaming| | | |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Red Teaming Deep Neural Networks with Feature Synthesis Tools <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71808)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71808.png?t=1701884325.7544134) | [Paper](https://openreview.net/forum?id=Od6CHhPM7I) | [GitHub](https://benchmarking-interpretability.csail.mit.edu/) |
 | PII Leakage | | |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| ProPILE: Probing Privacy Leakage in Large Language Models <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71697)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71697.png?t=1701754095.4490647) | [Paper](https://openreview.net/forum?id=QkLpGxUboF) | [GitHub](https://staging.parameterlab.de/research/propile) |
 | Backdoors | | | |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Backdoors in Deep Learning: The Good, the Bad, and the Ugly <br> [NeurIPS link - Workshop Video & Abstract](https://neurips.cc/virtual/2023/workshop/66550)| | | [Workshop](https://neurips2023-bugs.github.io/) |
+| Setting the Trap: Capturing and Defeating Backdoors in Pretrained Language Models through Honeypots <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72945)| [ | [Paper](https://openreview.net/forum?id=2cYxNWNzk3) | |
+| Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71467)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71467.png?t=1701428519.8006961) | [Paper](https://openreview.net/forum?id=VFhN15Vlkj) | |
+| A Unified Detection Framework for Inference-Stage Backdoor Defenses <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72827)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72827.png?t=1701873334.846031) | [Paper](https://openreview.net/forum?id=4zWEyYGGfI) | |
 | Trojan | | | |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| **TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71224)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71224.png?t=1697497280.3117414) | [Paper](https://openreview.net/forum?id=ZejTutd7VY) | [GitHub](https://github.com/UCF-ML-Research/TrojLLM) |
+| **TDC 2023 (LLM Edition): The Trojan Detection Challenge** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/competition/66583)|  |  | [Workshop](https://trojandetection.ai/workshop) |
 | Jailbreaking | | | |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| **Jailbroken: How Does LLM Safety Training Fail?** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73831)| [Poster](https://neurips.cc/virtual/2023/poster/70702) | [Paper](https://openreview.net/forum?id=jA235JGM09) | |
 | Adversarial Robustness | | | |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Are aligned neural networks adversarially aligned? <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71817)| | [Paper](https://openreview.net/forum?id=OQQoD8Vc3B) | |
+| Improving Adversarial Robustness via Information Bottleneck Distillation <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70122)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70122.png?t=1702035880.2177527) | [Paper](https://openreview.net/forum?id=v5Aaxk4sSy) | [GitHub](https://github.com/SkyKuang/IBD) |
+| Revisiting Adversarial Training for ImageNet: Architectures, Training and Generalization across Threat Models  <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71757)| [Slides](https://neurips.cc/media/neurips-2023/Slides/71757.pdf) | [Paper](https://openreview.net/forum?id=Pbpk9jUzAi) | [GitHub](https://github.com/nmndeep/revisiting-at) |
+| BERT Lost Patience Won't Be Robust to Adversarial Slowdown <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71547)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71547.png?t=1700167301.5787725) <br> [SLides](https://neurips.cc/media/neurips-2023/Slides/71547.pdf)| [Paper](https://openreview.net/forum?id=TcG8jhOPdv) | [GitHub](https://github.com/ztcoalson/WAFFLE) |
 | Others | | | |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| **On the Exploitability of Instruction Tuning** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72871)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72871.png?t=1701306042.5043871) | [Paper](https://openreview.net/forum?id=4AQ4Fnemox) | |
+| **ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned Samples in NLP** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72384) <br> _**Notes:Look at datasets and tests**_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72384.png?t=1701551619.9559908) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/72384.pdf)| [Paper](https://openreview.net/forum?id=DD0QJvPbTD) | |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 | | | | |
 ***
