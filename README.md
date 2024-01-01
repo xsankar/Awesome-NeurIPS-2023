@@ -64,23 +64,23 @@
 ***
 ## Interesting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> Papers one should think about. New Computing Paradigms, a new object detection variation (Gold-YOLO), couple of papers on Nash, ChessGPT (one of my long term interests to see if GPT can play like Tal, Paul Keras, Paul Morphy, Capablanca, Botvinnik and of course Fisher!),…
+> Papers one should think about. New Computing Paradigms, a new object detection variation (Gold-YOLO), couple of papers on Nash, ChessGPT (_one of my long term interests to see if GPT can play like Tal, Paul Keras, Paul Morphy, Capablanca, Botvinnik and of course Fisher!_),…
 > >
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | Machine Learning with New Compute Paradigms <br> [NeurIPS link - Workshop Video & Abstract](https://neurips.cc/virtual/2023/workshop/66533)| | | [Workshop](https://www.mlwithnewcompute.com/) |
 | Workshop : Information-Theoretic Principles in Cognitive Systems (InfoCog) <br> [NeurIPS link - Workshop Video & Abstract](https://neurips.cc/virtual/2023/workshop/66535)| | | [Workshop](https://sites.google.com/view/infocog-neurips-2023) |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| MATH-AI: The 3rd Workshop on Mathematical Reasoning and AI <br> [NeurIPS link - Workshop Video & Abstract](https://neurips.cc/virtual/2023/workshop/66522)| | | [Workshop](https://mathai2023.github.io/) |
+| Segment Everything Everywhere All at Once <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71518) <br> _Notes:The best named paper award!!_| [Slides](https://neurips.cc/media/neurips-2023/Slides/71518_SMIwV0i.pdf) | [Paper](https://openreview.net/forum?id=UHBrWeFWlL) | [GitHub](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) |
+| On the Need for a Language Describing Distribution Shifts: Illustrations on Tabular Datasets <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73603) <br> _Notes:At last, there is still interest in tabular data !!! ! _| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73603.png?t=1701636498.9203691) | [Paper](https://openreview.net/forum?id=PF0lxayYST) | [GitHub](https://github.com/namkoong-lab/whyshift) |
+| Auditing for Human Expertise  <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71468) <br> _Notes:The fact that such a paper exist itself is interesting_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71468.png?t=1702254247.2812443) | [Paper](https://openreview.net/forum?id=VEpU9rFaQr) | |
+| Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70602) <br> _Notes: Out of interest from my past work - Object Detection for autonomous driving. YOLO, at that time was V3 and pretty effective_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70602.png?t=1698075176.0605502) | [Paper](https://openreview.net/forum?id=lJDoPAjkCV) | |
+| Scaling laws for language encoding models in fMRI <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72951) <br> _Notes:We found that brain prediction performance scales logarithmically with model size from 125M to 30B parameter models, with ~15% increased encoding performance_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72951.png?t=1702109230.768798) | [Paper](https://openreview.net/forum?id=2W4LxJbgec) | |
+| A Path to Simpler Models Starts With Noise <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71482) <br> The Rashomon set is the set of models that perform approximately equally well on a given dataset, and the Rashomon ratio is the fraction of all models in a given hypothesis space that are in the Rashomon set. Rashomon ratios are often large for tabular datasets in criminal justice, healthcare, lending, education, and in other areas, which has practical implications about whether simpler models can attain the same level of accuracy as more complex models. An open question is why Rashomon ratios often tend to be large_ | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71482.png?t=1701869009.040679) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/71482.pdf) | [Paper](https://openreview.net/forum?id=Uzi22WryyX) | |
+| ChessGPT: Bridging Policy Learning and Language Modeling <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73461) <br> Notes:This I need to try. Can it play like the grandmasters of yesteryears ?_| | [Paper](https://openreview.net/forum?id=pvdm4B6JMK) | |
+| Nash Regret Guarantees for Linear Bandits <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71921)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71921.png?t=1701971731.8136826) | [Paper](https://openreview.net/forum?id=MCkUS1P3Sh) | |
+| Computing Optimal Nash Equilibria in Multiplayer Games <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70624)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70624.png?t=1698634430.1629207) | [Paper](https://openreview.net/forum?id=kupNhxLc6k) | |
+| Strategyproof Voting under Correlated Beliefs <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70962) <br> _Notes:Think we would have this in all our voting machines in time for the 2024 eections ?_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70962.png?t=1701313446.1340103) | [Paper](https://openreview.net/forum?id=eT1QOsssRB) | |
 | | | | |
 ***
 ## Towards AGI
