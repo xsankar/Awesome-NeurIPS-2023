@@ -85,12 +85,12 @@
 ***
 ## Towards AGI
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> General AGI related papers. I have broken out other AGI relevant sections by themselves below - Planning, Reasoning, Alignment & RL
-> IMHO there is no real AGI paper yet
+> _**General AGI related papers. I have broken out other AGI relevant sections by themselves below - Planning, Reasoning, Alignment & RL**_
+> _**IMHO there is no real AGI paper yet**_
 > 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-| **AI meets Moral Philosophy and Moral Psychology: An Interdisciplinary Dialogue about Computational Ethics**  <br> [NeurIPS link - Workshop Videos & Abstract](https://neurips.cc/virtual/2023/workshop/66528) <br> _Notes:a series of in-person invited talks from leading scholars working at the intersection of AI, psychology, and philosophy on issues related to morality| | | [GitHub](https://aipsychphil.github.io/) |
+| **AI meets Moral Philosophy and Moral Psychology: An Interdisciplinary Dialogue about Computational Ethics**  <br> [NeurIPS link - Workshop Videos & Abstract](https://neurips.cc/virtual/2023/workshop/66528) <br> _**Notes:a series of in-person invited talks from leading scholars working at the intersection of AI, psychology, and philosophy on issues related to morality**_| | | [GitHub](https://aipsychphil.github.io/) |
 | **Language Models Meet World Models** <br> [NeurIPS link - Tutorial Video & Abstract](https://neurips.cc/virtual/2023/tutorial/73952)| | [Paper](https://arxiv.org/abs/2312.05230) <br> [Slides](https://sites.google.com/view/neurips2023law) | [GitHub]() |
 | **Are Emergent Abilities of Large Language Models a Mirage?** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73863)| [Poster](https://neurips.cc/virtual/2023/poster/72117) | [Paper](https://openreview.net/forum?id=ITw9edRDlD) | |
 | Competition : MyoChallenge 2023: Towards Human-Level Dexterity and Agility <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/competition/66584)| | | [GitHub](https://sites.google.com/view/myosuite/myosymposium/neurips23) |
