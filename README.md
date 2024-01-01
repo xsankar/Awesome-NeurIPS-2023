@@ -194,7 +194,6 @@
 | Others | | | |
 | **On the Exploitability of Instruction Tuning** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72871)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72871.png?t=1701306042.5043871) | [Paper](https://openreview.net/forum?id=4AQ4Fnemox) | |
 | **ParaFuzz: An Interpretability-Driven Technique for Detecting Poisoned Samples in NLP** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72384) <br> _**Notes:Look at datasets and tests**_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72384.png?t=1701551619.9559908) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/72384.pdf)| [Paper](https://openreview.net/forum?id=DD0QJvPbTD) | |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 | | | | |
 ***
 ## Datasets
@@ -217,7 +216,16 @@
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| **When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73869)| [Poster](https://neurips.cc/virtual/2023/poster/72542) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/72542_gYjr3Ri.pdf) | [Paper](https://openreview.net/forum?id=APGXBNkt6h) | |
+| ResMem: Learn what you can and memorize the rest <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72171)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72171.png?t=1702145908.7032263) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/72171.pdf) | [Paper](https://openreview.net/forum?id=HFQFAyNucq) | |
+| Augmenting Language Models with Long-Term Memory <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72461)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72461.png?t=1701581538.1958816) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/72461.pdf)| [Paper](https://openreview.net/forum?id=BryMFPQ4L6) | [GitHub](https://github.com/Victorwz/LongMem/tree/main) |
+| **Birth of a Transformer: A Memory Viewpoint** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72899)| | [Paper](https://openreview.net/forum?id=3X2EbBLNsk) | |
+| **Faith and Fate: Limits of Transformers on Compositionality** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72247)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72247.png?t=1701836214.78365) | [Paper](https://openreview.net/forum?id=Fkckkr3ya8) | [GitHub](https://github.com/nouhadziri/faith-and-fate) |
+| Elastic Decision Transformer <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71664)| | [Paper](https://openreview.net/forum?id=RMeQjexaRj) | [GitHub](https://github.com/kristery/Elastic-DT) |
+| Focused Transformer: Contrastive Training for Context Scaling <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70287)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70287.png?t=1701800918.2783954) | [Paper](https://openreview.net/forum?id=s1FjXzJ0jy) | |
+| Energy Transformer <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71901)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71901.png?t=1701394775.596156) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/71901.pdf) | [Paper](https://openreview.net/forum?id=MbwVNEx9KS) | [GitHub](https://bhoov.com/energy-transformer) |
+| Neural Functional Transformers <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72049)| | [Paper](https://openreview.net/forum?id=JdhyIa0azI) | |
+| Spike-driven Transformer <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72606)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72606.png?t=1701929679.976799) | [Paper](https://openreview.net/forum?id=9FmolyOHi5) | [GitHub](https://github.com/BICLab/Spike-Driven-Transformer) |
 | | | | |
 ***
 ## NN Design & Insights
