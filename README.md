@@ -55,6 +55,7 @@
 ***
 ## Now
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> xx Papers
 > Papers I want to read and understand now. Also have tagged interesting papers from other sections in **bold**
 > 
 | Title | Poster | OpenReview | GitHub |
@@ -64,7 +65,8 @@
 ***
 ## Interesting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> Papers one should think about. New Computing Paradigms, a new object detection variation (Gold-YOLO), couple of papers on Nash, ChessGPT (_one of my long term interests to see if GPT can play like Tal, Paul Keras, Paul Morphy, Capablanca, Botvinnik and of course Fisher!_),…
+> 13 Papers
+> _**Papers one should think about. New Computing Paradigms, a new object detection variation (Gold-YOLO), couple of papers on Nash, ChessGPT (_one of my long term interests to see if GPT can play like Tal, Paul Keras, Paul Morphy, Capablanca, Botvinnik and of course Fisher!_),…**_
 > >
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
@@ -85,6 +87,7 @@
 ***
 ## Towards AGI
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 7 Papers
 > _**General AGI related papers. I have broken out other AGI relevant sections by themselves below - Planning, Reasoning, Alignment & RL**_
 > _**IMHO there is no real AGI paper yet**_
 > 
@@ -101,6 +104,8 @@
 ***
 ## Planning
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 5 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | On the Planning Abilities of Large Language Models - A Critical Investigation <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71377)| | [Paper](https://openreview.net/forum?id=X6dEqXIsEW) | [GitHub](https://github.com/karthikv792/LLMs-Planning) |
@@ -112,6 +117,8 @@
 ***
 ## Reasoning
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 7 Papers
+> 
 | Title | Poster | Paper | GitHub |
 | -: | -: | :-: | -: |
 | Why think step by step? Reasoning emerges from the locality of experience <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70306)| | [Paper](https://openreview.net/forum?id=rcXXNFVlEn) | [GitHub](https://github.com/benpry/why-think-step-by-step) |
@@ -125,6 +132,8 @@
 ***
 ## Alignment
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 2 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | Moral Responsibility for AI Systems <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70687) <br> _Note:This paper presents a formal definition of Moral Responsibility within the framework of causal models_| | [Paper](https://openreview.net/forum?id=jYIknUIgkd) | |
@@ -133,6 +142,8 @@
 ***
 ## RL
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 5 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | **Would I have gotten that reward? Long-term credit assignment by counterfactual contribution analysis** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/69923)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/69923.png?t=1702056992.4346392) | [Paper](https://openreview.net/forum?id=yvqqkOn9Pi) | |
@@ -145,7 +156,8 @@
 ***
 ## Prompting
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> Prompting definitely is a section by itself
+> 7 Papers
+> _**Prompting definitely is a section by itself**_
 > 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
@@ -160,7 +172,8 @@
 ***
 ## SLM
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> Small Language Models - not getting enough attendtion!
+> 2 Papers
+> _**Small Language Models - not getting enough attendtion!**_
 > 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | :-: |
@@ -170,6 +183,8 @@
 ***
 ## Attack mitigation
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 15 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | Red Teaming| | | |
@@ -198,6 +213,7 @@
 ***
 ## Datasets
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 13 Papers
 > _**Datasets curation is an under appreciated and thankless work - extremely essential. So kudos to the authors of these papers. We all should contribute to dataset curation …**_
 > 
 | Title | Poster | OpenReview | GitHub |
@@ -219,13 +235,35 @@
 ***
 ## Benchmarks
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 19 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73486) <br> _**I was familiar with this paper beforehand and had anticipated receiving favorable acceptance - it won the best paper award !**_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73486.png?t=1702252557.5787435) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/73486_TXPWD8h.pdf)| [Paper](https://openreview.net/forum?id=kaHpo8OZw2) | [GitHub](https://decodingtrust.github.io/) |
+| **Evaluating the Moral Beliefs Encoded in LLMs** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71831)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71831.png?t=1702078298.4448667) | [Paper](https://openreview.net/forum?id=O06z2G18me) | [GitHub]() |
+| **Understanding Social Reasoning in Language Models with Language Models** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73680) <br> _**Notes:Our results suggest that GPT4 has ToM capabilities that mirror human inference patterns, though less reliable, while other LLMs struggle.**_| [Slides](https://neurips.cc/media/neurips-2023/Slides/73680.pdf) | [Paper](https://openreview.net/forum?id=8bqjirgxQM) | [GitHub](https://sites.google.com/view/social-reasoning-lms/home) |
+| **MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71498)| | [Paper](https://openreview.net/forum?id=UdByCgCNdr) | |
+| ToolQA: A Dataset for LLM Question Answering with External Tools <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73466)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73466.png?t=1699757746.0408652) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/73466.pdf)| [Paper](https://openreview.net/forum?id=pV1xV2RK6I) | [GitHub](https://github.com/night-chen/ToolQA) |
+| **PIXIU: A Comprehensive Benchmark, Instruction Dataset and Large Language Model for Finance** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73431)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73431.png?t=1699498575.2411695) | [Paper](https://openreview.net/forum?id=vTrRq6vCQH) | [GitHub](https://github.com/chancefocus/PIXIU) |
+| Evaluating Open-QA Evaluation <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73580)| | [Paper](https://openreview.net/forum?id=UErNpveP6R) | |
+| FELM: Benchmarking Factuality Evaluation of Large Language Models <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73491)| | [Paper](https://openreview.net/forum?id=jSO7Vgolc6) | |
+| BenchCLAMP: A Benchmark for Evaluating Language Models on Syntactic and Semantic Parsing <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73488)|  | [Paper](https://openreview.net/forum?id=k4juAEW1tG) | |
+| Text Alignment Is An Efficient Unified Model for Massive NLP Tasks <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/69989)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/69989.png?t=1702507360.2831905) | [Paper](https://openreview.net/forum?id=xkkBFePoFn) | [GitHub](https://github.com/yuh-zha/Align) |
+| Statistical Knowledge Assessment for Large Language Models <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70415) <br> _**Notes:Should be an interesting dataset**_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70415.png?t=1700990614.4831073) [Slides](https://neurips.cc/media/neurips-2023/Slides/70415_fOzUASD.pdf)| [Paper](https://openreview.net/forum?id=pNtG6NAmx0) | |
+| **Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72990)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72990.png?t=1699930149.4471667) | [Paper](https://openreview.net/forum?id=1qvx610Cu7) | [GitHub](https://github.com/evalplus/evalplus) |
+| **CLadder: A Benchmark to Assess Causal Reasoning Capabilities of Language Models** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70983) <br> _**Notes:Should be an interesting dataset**_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70983.png?t=1701858916.4609177) | [Paper](https://openreview.net/forum?id=e2wtjx0Yqu) | |
+| Mathematical Capabilities of ChatGPT <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73421)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73421.png?t=1702248513.815312) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/73421_njxrQKB.pdf) <br> _**Notes:datasets: GHOSTS and miniGHOSTS. These are the first natural-language datasets curated by working researchers in mathematics that <br> (1) aim to cover graduate-level mathematics, <br> (2) provide a holistic overview of the mathematical capabilities of language models, and <br> (3) distinguish multiple dimensions of mathematical reasoning**_| [Paper](https://openreview.net/forum?id=xJ7YWXQOrg) | [GitHub](https://ghosts.friederrr.org/) |
+| LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73565)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73565.png?t=1702308429.6880481) | [Paper](https://openreview.net/forum?id=WqSPQFxFRC) | |
+| How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73425)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73425.png?t=1702202042.9834287) | [Paper](https://openreview.net/forum?id=w4zZNC4ZaV) | |
+| Thrust: Adaptively Propels Large Language Models with External Knowledge <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70026)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70026.png?t=1702071875.8039157) | [Paper](https://openreview.net/forum?id=x9FOu3W6iy) | [GitHub](https://github.com/colinzhaoust/thrust_neurips2023) |
+| LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73519)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73519.png?t=1701886211.997343) | [Paper](https://openreview.net/forum?id=eM6WLko4Dv) | [GitHub](https://openlamm.github.io/) |
+| Are Diffusion Models Vision-And-Language Reasoners? <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70890) <br> _**Notes:GDBench, computationally intensive**_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70890.png?t=1701461321.6898878) | [Paper](https://openreview.net/forum?id=fmJv8Hj0yo) | |
 | | | | |
 ***
 ## Decoding Transformers
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 10 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | **When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73869)| [Poster](https://neurips.cc/virtual/2023/poster/72542) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/72542_gYjr3Ri.pdf) | [Paper](https://openreview.net/forum?id=APGXBNkt6h) | |
@@ -242,6 +280,7 @@
 ***
 ## NN Design & Insights
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 2 Paper
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | The Clock and the Pizza: Two Stories in Mechanistic Explanation of Neural Networks <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/oral/73847) <br> _Notes: Looks like a very interesting paper. It was an oral_ | [Poster](https://neurips.cc/virtual/2023/poster/71629) | [Paper](https://openreview.net/forum?id=S5wmbQc1We) | |
@@ -250,21 +289,28 @@
 ***
 ## Embedding
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 1 Paper
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | RETVec: Resilient and Efficient Text Vectorizer <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70409) <br> _Notes : New research from Google. RETVec leads to competitive, multilingual models that are significantly more resilient to typos and adversarial text attacks_ | [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70409.png?t=1702068905.7971084) | [Paper](https://openreview.net/forum?id=pVlC0reMKq) | [GitHub](https://github.com/google-research/retvec) |
 | | | | |
 ***
-## AI Generated Text Detection
+## AI Generated Text/Image Detection
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 3 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | RADAR: Robust AI-Text Detection via Adversarial Learning <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71713)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71713.png?t=1699290320.7839897) | [Paper](https://openreview.net/forum?id=QGrkbaan79) | |
 | Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72624)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72624.png?t=1701451368.9923096) | [Paper](https://openreview.net/forum?id=8uOZ0kNji6) | |
+| GenImage: A Million-Scale Benchmark for Detecting AI-Generated Image <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73644)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73644.png?t=1698203717.0436957) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/73644.pdf)| [Paper](https://openreview.net/forum?id=GF84C0z45H) | [GitHub](https://github.com/GenImage-Dataset/GenImage) |
 | | | | |
 ***
 ## Watermarking
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 1 Paper
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | Tree-Rings Watermarks: Invisible Fingerprints for Diffusion Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71259)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71259.png?t=1699370145.5634189) | [Paper](https://openreview.net/forum?id=Z57JrmubNl) | [Github](https://github.com/YuxinWenRick/tree-ring-watermark)|
@@ -272,6 +318,8 @@
 ***
 ## Origin Attribution
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 1 Paper
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | Where Did I Come From? Origin Attribution of AI-Generated Images <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/70868)|  | [Paper](https://openreview.net/forum?id=g8bjq0qxOl) | |
@@ -279,6 +327,8 @@
 ***
 ## Bias/Fairness
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 7 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | In-Context Impersonation Reveals Large Language Models' Strengths and Biases <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72422)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72422.png?t=1701808560.4351242) | [Paper](https://openreview.net/forum?id=CbsJ53LdKc) | [GitHub](https://github.com/ExplainableML/in-context-impersonation/) |
@@ -292,6 +342,8 @@
 ***
 ## Explainability
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 4 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | XAI in Action: Past, Present, and Future Applications <br> [NeurIPS Workshop Video](https://neurips.cc/virtual/2023/workshop/66529)| | | [Workshop](https://xai-in-action.github.io/)|
@@ -302,6 +354,8 @@
 ***
 ## Other
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
+> 4 Papers
+> 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | MEMTO: Memory-guided Transformer for Multivariate Time Series Anomaly Detection <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71519)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71519.png?t=1698648523.5159426) | [Paper](https://openreview.net/forum?id=UFW67uduJd) | [Github](https://github.com/gunny97/MEMTO)|
