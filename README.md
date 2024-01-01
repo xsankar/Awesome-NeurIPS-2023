@@ -176,17 +176,22 @@
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 | PII Leakage | | |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Backdoors | | | |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Trojan | | | |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Jailbreaking | | | |
+|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Adversarial Robustness | | | |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| Others | | | |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
 |  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
