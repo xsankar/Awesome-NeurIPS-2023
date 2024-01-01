@@ -56,23 +56,21 @@
 ***
 ## Now
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> 11 Papers
+> 10 Papers
 > 
 > Papers I want to read and understand now. Also have tagged interesting papers from other sections in **bold**
 > 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
-|  <br> [NeurIPS link - Short Video & Abstract]()| [Poster]() | [Paper]() | [GitHub]() |
+| NextGenAI: The Delusion of Scaling and the Future of Generative AI, Björn Ommer <br> [NeurIPS link - Talk Video & Abstract](https://neurips.cc/virtual/2023/invited-talk/73988)| | |  |
+| Application Development using Large Language Models - Andrew Ng <br> [NeurIPS link - Tutorial Video & Abstract](https://neurips.cc/virtual/2023/tutorial/73948) <br> _**Notes:Must attend, IHMO. With a statement like this, how can we not attend ? “We will share best practices for integrating LLMs into more complex software systems, evaluating and continually improving their performance, and enhancing their safety”**_| | | |
+| I Can’t Believe It’s Not Better (ICBINB): Failure Modes in the Age of Foundation Models <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/workshop/66506)| [Poster]() <br> _**Notes:9 hrs pf talk ,lots of pairs. Must read/watch**_| | [Workshop](https://sites.google.com/view/icbinb-2023/home) |
+| The Goldilocks of Pragmatic Understanding: Fine-Tuning Strategy Matters for Implicature Resolution by LLMs <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72793)| | [Paper](https://openreview.net/forum?id=5bWW9Eop7l) | |
+| Revisiting Out-of-distribution Robustness in NLP: Benchmarks, Analysis, and LLMs Evaluations <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73407)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73407.png?t=1700156416.4123623) | [Paper](https://openreview.net/forum?id=zQU33Uh3qM) | |
+| Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73434)| | [Paper](https://openreview.net/forum?id=uccHPGDlao) | [GitHub](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge) |
+| Mass-Producing Failures of Multimodal Systems with Language Models <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71572)| | [Paper](https://openreview.net/forum?id=T6iiOqsGOh) | |
+| ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72492)| [Poster]() | [Paper](https://openreview.net/forum?id=BHXsb69bSx) | |
+| Can Language Models Teach? Teacher Explanations Improve Student Performance via Personalization <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/72111)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72111.png?t=1701902519.8028624) | [Paper](https://openreview.net/forum?id=IacxcFpvWQ) | |
 | | | | |
 ***
 ## Interesting
@@ -252,12 +250,13 @@
 ***
 ## Benchmarks
 [<img src="images/back_button_2.png" width="25" height="25">Top](#back-to-toc)
-> 19 Papers
+> 20 Papers
 > 
 | Title | Poster | OpenReview | GitHub |
 | -: | -: | :-: | -: |
 | **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73486) <br> _**I was familiar with this paper beforehand and had anticipated receiving favorable acceptance - it won the best paper award !**_| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73486.png?t=1702252557.5787435) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/73486_TXPWD8h.pdf)| [Paper](https://openreview.net/forum?id=kaHpo8OZw2) | [GitHub](https://decodingtrust.github.io/) |
 | **Evaluating the Moral Beliefs Encoded in LLMs** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71831)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71831.png?t=1702078298.4448667) | [Paper](https://openreview.net/forum?id=O06z2G18me) | [GitHub]() |
+| **BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73512)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73512.png?t=1702524627.9617465) | [Paper](https://openreview.net/forum?id=g0QovXbFw3) | |
 | **Understanding Social Reasoning in Language Models with Language Models** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73680) <br> _**Notes:Our results suggest that GPT4 has ToM capabilities that mirror human inference patterns, though less reliable, while other LLMs struggle.**_| [Slides](https://neurips.cc/media/neurips-2023/Slides/73680.pdf) | [Paper](https://openreview.net/forum?id=8bqjirgxQM) | [GitHub](https://sites.google.com/view/social-reasoning-lms/home) |
 | **MoCa: Measuring Human-Language Model Alignment on Causal and Moral Judgment Tasks** <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/71498)| | [Paper](https://openreview.net/forum?id=UdByCgCNdr) | |
 | ToolQA: A Dataset for LLM Question Answering with External Tools <br> [NeurIPS link - Short Video & Abstract](https://neurips.cc/virtual/2023/poster/73466)| [Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/73466.png?t=1699757746.0408652) <br> [Slides](https://neurips.cc/media/neurips-2023/Slides/73466.pdf)| [Paper](https://openreview.net/forum?id=pV1xV2RK6I) | [GitHub](https://github.com/night-chen/ToolQA) |
